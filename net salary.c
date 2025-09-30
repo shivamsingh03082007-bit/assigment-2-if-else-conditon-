@@ -1,3 +1,4 @@
+#include<stdio.h>
 int main() {
     float gross, allowance, deduction, net;
     printf("Enter Gross Salary: ");
